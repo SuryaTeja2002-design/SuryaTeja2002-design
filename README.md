@@ -41,13 +41,6 @@
 - **DevOps & Tools**: Docker, Kubernetes, GitHub Actions, Terraform, Postman, JUnit, Pytest
 - **Security**: OAuth2, JWT, SQL Injection Defense
 
----
-
-## 🎓 Education & Certifications
-🎓 **Bachelor of Software Engineering (Honors)**  
-Ontario Tech University, 2025  
-🏆 **Google Data Analytics Professional Certificate** (2024)  
-🏅 **3rd Place – Data Fusion Challenge** (Ontario Tech University, 2025)
 
 ---
 
